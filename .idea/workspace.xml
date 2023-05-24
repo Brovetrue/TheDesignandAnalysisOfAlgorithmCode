@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Design and Analysis of Algorithm Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/全排列字典序_swap法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/子集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic/背包问题0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/卡片.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/天干地支.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/阶乘求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/节目安排.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/谈判.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/全排列_swap法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/全排列字典序_check法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/全排列字典序_swap法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/汉诺塔问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/第k小问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/2大整数的加法.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/2找第一个x二分搜索.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/2排列问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/2棋盘问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/大整数的加法.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/归并排序非递归.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/归并递归.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/循环赛.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/循环赛问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/快排.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/最大子段和分治.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/最大子段和改进蛮力.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/最大子段和蛮力.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/棋盘问题1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/分治/第k小.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/0最长公共子序列的循环实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/0最长公共子序列的递归加+备忘.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/5最大子段和动态规划算法实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/0fib递归带备忘.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/1凑钱问题循环实现：动态规划.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/2数字三角形的动态规划实现（循环实现）.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/2数字三角形的备忘录实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/3矩阵连乘问题（带括号的方案）.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/4最长公共子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/5 最大子段和动态规划.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/5最大子段和的蛮力和分治和动态规划算法实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/6最长不降子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/7 0-1背包.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/最长递增子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/数字三角形动态规划.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/数字三角形递归（备忘录）.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/最优三角剖分.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/最大子段和动态规划算法实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/最长公共子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/最长公共子序列备忘.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/最长递增子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/矩阵连乘0403.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/矩阵连乘0403递归.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/递归矩阵连乘.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/1全排列标记法.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/2排列问题框架.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/n皇后.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/tour旅行商.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/1子集问题从枚举到回溯.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/2子集问题非递归.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/3背包问题不带剪枝的回溯.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/3背包问题回带剪枝的回溯.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/4装载问题回溯法.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/5 符号三角形.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/6 最大团.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/子集问题非递归.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/3 kruskal最小生成树.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/dijstra实现版.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/dijstra实现版软1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/dijstra实现结果显示优化.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/dijstra框架.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/dijstra软工2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/prim注意和dijstra最短路算法实现的区别.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/prim软1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/活动安排软工3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/节目安排带排序.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/节目安排问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/赫夫曼.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/赫夫曼优先队列式.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/赫夫曼带wpl.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/贪心/部分背包带排序.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/递归和带备忘的递归/2全排列交换swap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/递归和带备忘的递归/2全排列问题check.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/递归和带备忘的递归/2划分.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/递归和带备忘的递归/2斐波那契数列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacherCode/递归和带备忘的递归/Mainfeibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testCode/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Chiu" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QFCFf6KZqYmIqacZxS7T2dPjMB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Study/算法设计与分析/The Design and Analysis of Algorithm Code/The Design and Analysis of Algorithm Code/src/teacherCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode" />
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\贪心" />
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\动态规划和备忘录\动态规划" />
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\动态规划和备忘录" />
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\递归和带备忘的递归" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="" />
+      <created>1684939842276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684939842276</updated>
+      <workItem from="1684939843430" duration="199000" />
+      <workItem from="1684940056712" duration="1217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
