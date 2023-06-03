@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="算法设计与分析">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/1全排列标记法.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/1全排列标记法.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/2排列问题框架.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/2排列问题框架.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/n皇后.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/n皇后.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/tour旅行商.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/tour旅行商.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/1子集问题从枚举到回溯.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/1子集问题从枚举到回溯.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/2子集问题非递归.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/2子集问题非递归.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/3背包问题不带剪枝的回溯.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/3背包问题不带剪枝的回溯.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/3背包问题回带剪枝的回溯.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/3背包问题回带剪枝的回溯.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/4装载问题回溯法.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/4装载问题回溯法.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/5 符号三角形.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/5 符号三角形.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherCode/回溯/排列相关/6 最大团.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherCode/回溯/子集相关/6 最大团.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/快速排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/快速排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/第k小问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/第k小问题.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +30,19 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9bb662f7-c091-487f-998b-4ed41b97c224" />
+        <option name="url" value="https://github.com/Brovetrue/TheDesignandAnalysisOfAlgorithmCode.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,22 +51,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TODO_SCOPE": "所有位置",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Study/算法设计与分析/The Design and Analysis of Algorithm Code/The Design and Analysis of Algorithm Code/src/teacherCode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;所有位置&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Study/算法设计与分析/The Design and Analysis of Algorithm Code/The Design and Analysis of Algorithm Code/src/teacherCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode" />
@@ -82,7 +86,11 @@
       <updated>1684939842276</updated>
       <workItem from="1684939843430" duration="199000" />
       <workItem from="1684940056712" duration="1443000" />
-      <workItem from="1685012742307" duration="306000" />
+      <workItem from="1685012742307" duration="744000" />
+      <workItem from="1685013504088" duration="316000" />
+      <workItem from="1685013835387" duration="23000" />
+      <workItem from="1685247803054" duration="1518000" />
+      <workItem from="1685539375970" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="回溯">
       <created>1684941462514</created>
@@ -91,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684941462514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="算法设计与分析">
+      <created>1685013077663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685013077663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="回溯" />
-    <option name="LAST_COMMIT_MESSAGE" value="回溯" />
+    <MESSAGE value="算法设计与分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法设计与分析" />
   </component>
 </project>

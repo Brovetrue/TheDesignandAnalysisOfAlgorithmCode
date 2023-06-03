@@ -17,7 +17,7 @@ public class 快速排序 {
             System.out.printf("");
         }
     }
-    public  static  void quickSort(int arr[],int left,int right){
+    public  static void quickSort(int arr[],int left,int right){
         int i=left,j=right,temp;
         if(left<right){
             temp = arr[i];

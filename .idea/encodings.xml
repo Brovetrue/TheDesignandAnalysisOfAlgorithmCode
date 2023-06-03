@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/0fib递归带备忘.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/teacherCode/动态规划和备忘录/动态规划/1凑钱问题循环实现：动态规划.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/teacherCode/子集问题非递归.cpp" charset="UTF-8" />
   </component>
 </project>
