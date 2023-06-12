@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="算法设计与分析">
+    <list default="true" id="63af843d-d01f-4638-adb7-dff669962696" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/快速排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/快速排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/第k小问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/第k小问题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tempCode/N皇后问题.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tempCode/N皇后问题.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;TODO_SCOPE&quot;: &quot;所有位置&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Study/算法设计与分析/The Design and Analysis of Algorithm Code/The Design and Analysis of Algorithm Code/src/teacherCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Study/算法设计与分析/The Design and Analysis of Algorithm Code/The Design and Analysis of Algorithm Code/src/tempCode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,11 +68,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\tempCode" />
       <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode" />
       <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\贪心" />
       <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\动态规划和备忘录\动态规划" />
       <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\动态规划和备忘录" />
-      <recent name="E:\Study\算法设计与分析\The Design and Analysis of Algorithm Code\The Design and Analysis of Algorithm Code\src\teacherCode\递归和带备忘的递归" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -91,6 +90,10 @@
       <workItem from="1685013835387" duration="23000" />
       <workItem from="1685247803054" duration="1518000" />
       <workItem from="1685539375970" duration="921000" />
+      <workItem from="1685807001856" duration="109000" />
+      <workItem from="1686368721292" duration="783000" />
+      <workItem from="1686378570647" duration="871000" />
+      <workItem from="1686573315842" duration="4200000" />
     </task>
     <task id="LOCAL-00001" summary="回溯">
       <created>1684941462514</created>
@@ -106,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685013077663</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="算法设计与分析">
+      <created>1685807058345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685807058345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

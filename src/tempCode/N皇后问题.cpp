@@ -1,3 +1,4 @@
+//https://www.cnblogs.com/xumenger/p/4311970.html
 #include<stdio.h>
 int n=8;//4皇后问题 
 int a[11];//a[i] 记录安排的第i个皇后放在第i行的a[i]中 
@@ -10,7 +11,7 @@ void output(){
     printf("\n");
 }
 int count=0;
-int  check(int i){
+int check(int i){
     //测试第i个皇后的位置（i,a[i]） 和
     //前面的i-1个皇后的位置 （1,a[1]） ....... （i-1,a[i-1]）是否冲突了
     //不同列，不同主对角，不同副对角
@@ -41,7 +42,8 @@ void trackBackQueue(int i){	//蛮力：回溯，//pailie(1)    1 - i-1个已经�
     return ;
 }
 int main(){
-    while(~scanf("%d",&n)){count=0;
+    while(~scanf("%d",&n)){
+        count=0;
         trackBackQueue(1);
         printf("%d\n",count);
     }
